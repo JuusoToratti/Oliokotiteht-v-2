@@ -1,0 +1,7 @@
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/edit_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/list_install_components.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/install.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/install/local.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava2Randomnumberpeliuudelleenolio-ohjelmoinnilla/build/CMakeFiles/install/strip.dir
